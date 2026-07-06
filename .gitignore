@@ -1,0 +1,24 @@
+# OS files
+Thumbs.db
+.DS_Store
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Uploaded files (keep structure but ignore actual uploads)
+uploads/profiles/*
+!uploads/profiles/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Environment / config
+.env
+*.local
+
+# Dependencies (if using composer)
+vendor/
+node_modules/
