@@ -276,4 +276,4 @@ For additional assistance, please use the following channels:
 | Regular User | yeriel123 | yeriel123@gmail.com | yeriel123 |
 | Regular User | margie123 | margie123@gmail.com | margie123 |
 
-*© 2026 Foundly | Created by Group 16 BSIT 2-1*
+
